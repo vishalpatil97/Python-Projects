@@ -1,2 +1,2 @@
 # Tic-tac-toe
-Tic Tac Toe project
+Tic Tac Toe game
